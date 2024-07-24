@@ -23,7 +23,7 @@ The assignment for this lesson is in the form of a Jupyter Notebook (.ipynb), wh
 
 Details of how to submit an assignment are given in the [L2D Handbook.](https://learntodiscover.github.io/L2D-Handbook/section7.html), and are also provided in this [step-by-step tutorial video](https://youtu.be/Hspc10_A9ys), that you can refer back to.
  
-## :satellite: Induction, Lecture and Drop-In Session:
+## :satellite: Live Lecture and Drop-In Session:
 
 
 The live lecture for this lesson will take place on **Thursday 1st of August at 14:00 BST, on Zoom**. The jupyter notebook file used during this lecture can be accessed from the folder [Lecture_Resources](./Lecture_Resources) in this GitHub Repository. 
